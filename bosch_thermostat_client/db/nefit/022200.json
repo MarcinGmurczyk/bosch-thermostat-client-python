@@ -161,8 +161,8 @@
     },
     "sensors": {
       "thermaldesinfectlastResult": {
-        "id": "thermaldesinfect/lastResult",
-        "name": "thermaldesinfect lastResult"
+        "id": "thermaldesinfect/lastresult",
+        "name": "thermaldesinfect lastresult"
       },
       "thermaldesinfectstate": {
         "id": "thermaldesinfect/state",
@@ -173,8 +173,8 @@
         "name": "thermaldesinfect time"
       },
       "thermaldesinfectlastweekDay": {
-        "id": "thermaldesinfect/weekDay",
-        "name": "thermaldesinfect weekDay"
+        "id": "thermaldesinfect/weekday",
+        "name": "thermaldesinfect weekday"
       }
     },
     "switches": {
